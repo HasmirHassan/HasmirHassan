@@ -19,3 +19,7 @@ English: Intermediate
 .Cricket  .Football  .Badminton   
 .Swimming . running          
 .Keeping pets . Travelling
+
+### Social Media
+Facebook: Md Hasmir Hassan   
+Linkdin:Hasmir Hassan
